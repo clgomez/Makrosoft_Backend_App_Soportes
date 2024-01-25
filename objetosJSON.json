@@ -1,0 +1,43 @@
+trabajadores:
+{
+    "id":"1",
+    "nombre":"carolina",
+    "complejidadAcumulada":"0"
+}
+
+{
+    "id":"2",
+    "nombre":"felipe",
+    "complejidadAcumulada":"0"
+}
+
+{
+    "id":"3",
+    "nombre":"camila",
+    "complejidadAcumulada":"0"
+}
+
+soportes:
+{
+    "id":"1",
+    "descripcion":"redes",
+    "complejidad":"10",
+    "idTrabajador":"1"
+}
+
+{
+    "id":"2",
+    "descripcion":"software",
+    "complejidad":"20",
+    "idTrabajador":"2"
+}
+
+{
+    "id":"3",
+    "descripcion":"discos",
+    "complejidad":"10",
+    "idTrabajador":"3"
+}
+
+
+
